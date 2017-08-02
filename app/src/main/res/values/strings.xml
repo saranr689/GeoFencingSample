@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GeoFencingSample</string>
+    <string name="geofence_transition_invalid_type">ERROR</string>
+</resources>
